@@ -2,11 +2,13 @@
 {
     public class Aluguel : EntityBase
     {
+        //Propriedades de navegação e relacionamento
         public int IdCliente { get; private set; }
-        public Cliente Cliente { get; private set; }
+        public Cliente Cliente { get; private set; } //Relacionamento com Cliente
 
+        //Propriedades de navegação e relacionamento
         public int IdJogo { get; private set; }
-        public Jogo Jogo { get; private set; }
+        public Jogo Jogo { get; private set; } //Relacionamento com Jogo
 
         public DateTime DataEmprestimo { get; private set; }
         public DateTime DataDevolucaoPrevista { get; private set; }

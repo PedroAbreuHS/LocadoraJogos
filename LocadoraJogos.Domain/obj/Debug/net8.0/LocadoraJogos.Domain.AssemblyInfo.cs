@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocadoraJogos.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fc11dfe6fb439177706d9adeec4f717a408cbc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocadoraJogos.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocadoraJogos.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

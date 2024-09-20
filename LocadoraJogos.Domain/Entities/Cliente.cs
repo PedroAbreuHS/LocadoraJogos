@@ -10,6 +10,9 @@ namespace LocadoraJogos.Domain.Entities
         public DateTime DataDeAniversario { get; private set; }
         public bool Ativo { get; private set; }
 
+        //Propriedade de navegação para relacionar com Aluguel
+        public List<Aluguel> Alugueis { get; set; }
+
 
         public Cliente(string nome, string email, Endereco endereco, DateTime dataDeAniversario) : base ()
         {
@@ -19,6 +22,7 @@ namespace LocadoraJogos.Domain.Entities
             DataDeAniversario = dataDeAniversario;
 
             Ativo = true;
+            Alugueis = new List<Aluguel>();
         }
 
         public bool Desativar()

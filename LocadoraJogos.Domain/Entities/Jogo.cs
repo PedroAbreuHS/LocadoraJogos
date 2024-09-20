@@ -9,6 +9,9 @@ namespace LocadoraJogos.Domain.Entities
         public int AnoLancamento { get; private set; }
         public bool DisponivelParaAluguel { get; private set; }
 
+        //Propriedade de navegação para relacionar com Aluguel
+        public List<Aluguel> Alugueis { get; set; }
+
         public Jogo(string nome, GeneroJogo genero, int anoLancamento) : base()
         {
             Nome = nome;
@@ -16,6 +19,7 @@ namespace LocadoraJogos.Domain.Entities
             AnoLancamento = anoLancamento;
 
             DisponivelParaAluguel = true;
+            Alugueis = new List<Aluguel>();
         }
 
         public bool Indisponivel()

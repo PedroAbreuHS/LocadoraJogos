@@ -1,0 +1,12 @@
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.Domain\bin\Debug\net8.0\LocadoraJogos.Domain.deps.json
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.Domain\bin\Debug\net8.0\LocadoraJogos.Domain.dll
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.Domain\bin\Debug\net8.0\LocadoraJogos.Domain.pdb
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.Domain\obj\Debug\net8.0\LocadoraJogos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.Domain\obj\Debug\net8.0\LocadoraJogos.Domain.AssemblyInfoInputs.cache
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.Domain\obj\Debug\net8.0\LocadoraJogos.Domain.AssemblyInfo.cs
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.Domain\obj\Debug\net8.0\LocadoraJogos.Domain.csproj.CoreCompileInputs.cache
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.Domain\obj\Debug\net8.0\LocadoraJogos.Domain.sourcelink.json
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.Domain\obj\Debug\net8.0\LocadoraJogos.Domain.dll
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.Domain\obj\Debug\net8.0\refint\LocadoraJogos.Domain.dll
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.Domain\obj\Debug\net8.0\LocadoraJogos.Domain.pdb
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.Domain\obj\Debug\net8.0\ref\LocadoraJogos.Domain.dll
