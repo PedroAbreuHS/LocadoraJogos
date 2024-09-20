@@ -35,6 +35,9 @@
             "projectReferences": {
               "C:\\ProjetosAvulsosDotNet\\LocadoraJogos\\LocadoraJogos.Application\\LocadoraJogos.Application.csproj": {
                 "projectPath": "C:\\ProjetosAvulsosDotNet\\LocadoraJogos\\LocadoraJogos.Application\\LocadoraJogos.Application.csproj"
+              },
+              "C:\\ProjetosAvulsosDotNet\\LocadoraJogos\\LocadoraJogos.Infrastructure\\LocadoraJogos.Infrastructure.csproj": {
+                "projectPath": "C:\\ProjetosAvulsosDotNet\\LocadoraJogos\\LocadoraJogos.Infrastructure\\LocadoraJogos.Infrastructure.csproj"
               }
             }
           }
