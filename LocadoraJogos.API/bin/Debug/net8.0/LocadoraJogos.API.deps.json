@@ -9,6 +9,7 @@
       "LocadoraJogos.API/1.0.0": {
         "dependencies": {
           "LocadoraJogos.Application": "1.0.0",
+          "LocadoraJogos.Infrastructure": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {

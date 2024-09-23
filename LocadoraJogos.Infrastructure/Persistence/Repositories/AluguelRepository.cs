@@ -1,10 +1,18 @@
 ﻿using LocadoraJogos.Domain.Entities;
 using LocadoraJogos.Domain.Repositories;
+using LocadoraJogos.Infrastructure.Data.Contexts;
 
 namespace LocadoraJogos.Infrastructure.Persistence.Repositories
 {
     public class AluguelRepository : IAluguelRepository
     {
+        private readonly LocadoraJogosDbContext _context;
+
+        public AluguelRepository(LocadoraJogosDbContext context)
+        {
+            _context = context;
+        }
+
         public Task<Aluguel> Cadastrar(Aluguel aluguel)
         {
             throw new NotImplementedException();

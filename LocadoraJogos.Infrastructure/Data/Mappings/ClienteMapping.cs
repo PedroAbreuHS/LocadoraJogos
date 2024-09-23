@@ -22,8 +22,16 @@ namespace LocadoraJogos.Infrastructure.Data.Mappings
                 .HasColumnType("NVARCHAR")
                 .HasMaxLength(100);
 
-            builder.Property(c => c.Endereco)
-                .IsRequired();
+            builder.OwnsOne(c => c.Endereco, e =>
+            {
+                e.Property(e => e.Rua).HasColumnName("Rua");
+                e.Property(e => e.NumeroCasa).HasColumnName("Numero_Casa");
+                e.Property(e => e.CEP).HasColumnName("CEP");
+                e.Property(e => e.Bairro).HasColumnName("Bairro");
+                e.Property(e => e.Cidade).HasColumnName("Cidade");
+                e.Property(e => e.Estado).HasColumnName("Estado");
+            });
+                
 
             builder.Property(c => c.DataDeAniversario)
                 .IsRequired();

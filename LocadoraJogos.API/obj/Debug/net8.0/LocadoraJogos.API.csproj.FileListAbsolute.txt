@@ -51,8 +51,8 @@ C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.API\bin\Debug\net8.0\Locado
 C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.API\bin\Debug\net8.0\LocadoraJogos.Domain.dll
 C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.API\bin\Debug\net8.0\LocadoraJogos.Infrastructure.dll
 C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.API\bin\Debug\net8.0\LocadoraJogos.Application.pdb
-C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.API\bin\Debug\net8.0\LocadoraJogos.Domain.pdb
 C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.API\bin\Debug\net8.0\LocadoraJogos.Infrastructure.pdb
+C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.API\bin\Debug\net8.0\LocadoraJogos.Domain.pdb
 C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.API\obj\Debug\net8.0\LocadoraJogos.API.csproj.AssemblyReference.cache
 C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.API\obj\Debug\net8.0\LocadoraJogos.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\ProjetosAvulsosDotNet\LocadoraJogos\LocadoraJogos.API\obj\Debug\net8.0\LocadoraJogos.API.AssemblyInfoInputs.cache
